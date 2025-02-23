@@ -3,3 +3,7 @@ body {
     background-image: #0000;
     color: #ff02b3fd;
 }
+
+strong {
+    color: #cf01e2fd;
+}
